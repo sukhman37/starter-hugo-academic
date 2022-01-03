@@ -1,6 +1,7 @@
 ---
 title: Sukhmandeep Singh
-role: Professor of Artificial Intelligence
+role: Senior Software Engineer
+avatar_filename: 03804750-6bf9-11ec-ae81-674b0dff04bb.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
