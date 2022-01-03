@@ -1,7 +1,7 @@
 ---
 title: Sukhmandeep Singh
 role: Senior Software Engineer
-avatar_filename: https://media-exp1.licdn.com/dms/image/C5603AQG-N_MRqg8y3g/profile-displayphoto-shrink_400_400/0/1598276778869?e=1646870400&v=beta&t=VnP3iHB5gDmooT-dhhkseGQCw9RSjSK9L3x--EXjWf4
+avatar_filename: 03804750-6bf9-11ec-ae81-674b0dff04bb.jpeg
 bio: ""
 interests:
   - Software Development
@@ -30,4 +30,4 @@ Sukhmandeep Singh is a senior software engineer having 5+ years of work experien
 
 <!--EndFragment-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Sukhmandeep_Singh_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
