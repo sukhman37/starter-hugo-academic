@@ -40,7 +40,7 @@ experience:
     date_end: 'Apr 2019'
     description: ''
     
-    - title: Software Engineer
+  - title: Software Engineer
     company: BlackNGreen
     company_url: 'https://www.blackngreen.com/'
     company_logo: 'Black'
