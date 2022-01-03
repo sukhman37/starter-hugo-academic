@@ -1,7 +1,6 @@
 ---
 title: Sukhmandeep Singh
 role: Senior Software Engineer
-avatar_filename: 03804750-6bf9-11ec-ae81-674b0dff04bb.jpeg
 bio: ""
 interests:
   - Software Development
@@ -11,6 +10,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/sukhman37
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sukhman37/
@@ -26,7 +28,7 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Sukhmandeep Singh is a senior software engineer having 5+ years of work experience as Backend Developer. He is working at Walmart(Flipkart) in Bangalore, India now. Previously, he has been working at Freecharge, and Startup as well.
+Sukhmandeep Singh is a senior software engineer having 5+ years of work experience as Backend Developer. He is working at Walmart(Flipkart) in Bangalore, India now. Previously, he has been working at Freecharge, and in Startup as well.
 
 <!--EndFragment-->
 
