@@ -21,7 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: singhsukhman83@gmail.com
-phone: +91 880 230 27 34
 address:
   street: Green Glen Layout
   city: Bengaluru
@@ -36,10 +35,6 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/sukhmansingh37'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
 # Site header
 
 main_menu:
