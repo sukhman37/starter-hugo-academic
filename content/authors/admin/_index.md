@@ -1,9 +1,8 @@
 ---
 title: Sukhmandeep Singh
 role: Senior Software Engineer
-avatar_filename: 03804750-6bf9-11ec-ae81-674b0dff04bb.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: https://media-exp1.licdn.com/dms/image/C5603AQG-N_MRqg8y3g/profile-displayphoto-shrink_400_400/0/1598276778869?e=1646870400&v=beta&t=VnP3iHB5gDmooT-dhhkseGQCw9RSjSK9L3x--EXjWf4
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -12,38 +11,23 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sukhman37/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor of technology in Computer Science Engineering
+      institution: Guru Nanak Dev University
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
 ---
-Sukhmandeep Singh is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!--StartFragment-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sukhmandeep Singh is a senior software engineer having 5+ years of work experience as Backend Developer. He is working at Walmart(Flipkart) in Bangalore, India now. Previously, he has been working at Freecharge, and Startup as well.
+
+<!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
