@@ -27,16 +27,15 @@ address:
   city: Bengaluru
   postcode: '560103'
   country: INDIA
-  country_code: US
+  country_code: IND
 coordinates:
   latitude: '12.927911'
   longitude: '77.671735'
-appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/sukhmansingh37'
   - icon: skype
     icon_pack: fab
     name: Skype Me
