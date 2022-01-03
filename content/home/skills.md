@@ -26,12 +26,12 @@ feature:
   name: Git
 - description: 4/5
   icon: leaf
-  icon_pack: fab
+  icon_pack: fas
   name: Spring Boot
 - description: 4/5
   icon: mysql
-  icon_pack: fab
-  name: Spring Boot
+  icon_pack: custom
+  name: mysql
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
