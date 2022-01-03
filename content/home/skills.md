@@ -20,10 +20,6 @@ feature:
   icon: java
   icon_pack: fab
   name: Java
-- description: 5/5
-  icon: git
-  icon_pack: fab
-  name: Git
 - description: 4/5
   icon: leaf
   icon_pack: fas
