@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://university.mongodb.com/certification/certificate/195488564
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2017-07-19"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: MongoDB
+  organization_url: https://www.mongodb.com/
+  title: MongoDB Certified Developer
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://s3.amazonaws.com/verify.edx.org/downloads/4b183fda9ada4d51a469f2e61f31e913/Certificate.pdf
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  date_start: "2014-09-23"
+  description: Introduction to Computer Programming
   organization: edX
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  title: Introduction to Computer Programming
+  url: ""
+- certificate_url: https://s3.amazonaws.com/verify.edx.org/downloads/5b16c49df8ac412f9f9fea65fe557752/Certificate.pdf
+  date_end: ""
+  date_start: "2014-09-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Introduction to Computing with Java
+  organization_url: https://www.edx.org
+  title: 'Introduction to Computing with Java'
   url: ""
 
 design:
