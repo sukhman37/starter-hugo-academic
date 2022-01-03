@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.flipkart.com/'
     company_logo: flipkart
     location: Bangalore India
-    date_start: 'Apr 2019'
+    date_start: 'April 2019'
     date_end: ''
     description: ''
         
@@ -37,7 +37,7 @@ experience:
     company_logo: freecharge
     location: Gurugram India
     date_start: 'May 2018'
-    date_end: 'Apr 2019'
+    date_end: 'April 2019'
     description: ''
     
   - title: Software Engineer
@@ -46,7 +46,7 @@ experience:
     company_logo: 'Black'
     location: Gurugram India
     date_start: 'May 2018'
-    date_end: 'Apr 2019'
+    date_end: 'April 2019'
     description: ''
 
 design:
