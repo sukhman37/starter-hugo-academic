@@ -4,9 +4,9 @@ role: Senior Software Engineer
 avatar_filename: https://media-exp1.licdn.com/dms/image/C5603AQG-N_MRqg8y3g/profile-displayphoto-shrink_400_400/0/1598276778869?e=1646870400&v=beta&t=VnP3iHB5gDmooT-dhhkseGQCw9RSjSK9L3x--EXjWf4
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Development
+  - Building Scalable Software
+  - Exploring New Technology
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,7 +20,7 @@ education:
     - course: Bachelor of technology in Computer Science Engineering
       institution: Guru Nanak Dev University
       year: 2016
-email: ""
+email: singhsukhman83@gmail.com
 superuser: true
 highlight_name: true
 ---
