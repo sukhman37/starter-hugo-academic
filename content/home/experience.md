@@ -43,12 +43,12 @@ experience:
   - title: Software Engineer
     company: BlackNGreen
     company_url: 'https://www.blackngreen.com/'
-    company_logo: 'Black'
+    company_logo: 'BNG'
     location: Gurugram India
     date_start: '2016-01-01'
     date_end: '2019-04-01'
     description: ''
 
 design:
-  columns: '3'
+  columns: '2'
 ---
