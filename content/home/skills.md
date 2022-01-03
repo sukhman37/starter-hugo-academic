@@ -31,7 +31,7 @@ feature:
 - description: 4/5
   icon: mysql
   icon_pack: custom
-  name: mysql
+  name: Mysql
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
